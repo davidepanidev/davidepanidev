@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Davide and here are my works
+<h1>Hi there 👋 <br> I'm Davide and here are my works</h1>
 
 ## 📱 Apps
 
