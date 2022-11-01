@@ -1,9 +1,13 @@
 <h1>Hi there 👋 <br> I'm Davide and these are my works</h1>
 
-> **Note**
-> 
-> I'm open to collaborations 🤝 If you like the way I work don't hesitate to reach out! 😊
+<div align="left">
+  
+  <h3>ℹ️ Info</h3>
+  <h3>I'm open to collaborations 🤝 If you like the way I work don't hesitate to reach out! 😊</h3>
+  
+</div>
 
+<br>
 
 ## 📱 Apps
 
@@ -24,7 +28,7 @@ Lightweight, fast and open-source cryptocurrencies market monitor for Android. A
 
 ### [Android Multimodule Architecture Concepts](https://github.com/davidepanidev/android-multimodule-architecture-concepts)
 
-Showcase of several architectural approaches 🏛 to developing multi-modular Android apps 📱, like a [Layered Architecture Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/layered-architecture-concept) and a [Clean Architecture Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-concept).
+Showcase of several architectural approaches 🏛 to developing multi-modular Android apps 📱 It shows a comparison between a [Layered Architecture Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/layered-architecture-concept) and a [Clean Architecture Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-concept) and the corresponding data flows.
 
 <p float="center">
 
