@@ -1,4 +1,9 @@
-<h1>Hi there 👋 <br> I'm Davide and here are my works</h1>
+<h1>Hi there 👋 <br> I'm Davide and these are my works</h1>
+
+> **Note**
+> 
+> I'm open to collaborations 🤝 If you like the way I work don't hesitate to reach out! 😊
+
 
 ## 📱 Apps
 
