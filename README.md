@@ -14,7 +14,7 @@
 [![AndroidAPI](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-1.7.20-blue.svg?logo=kotlin)](https://kotlinlang.org)
 [![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-1.3.0-yellow)](https://developer.android.com/jetpack/compose)
-[![License](https://img.shields.io/github/license/CoinTrend/CoinTrend?color=orange)](./LICENSE)
+[![License](https://img.shields.io/github/license/CoinTrend/CoinTrend?color=orange)](https://github.com/CoinTrend/CoinTrend/blob/develop/LICENSE)
 [![Release](https://badgen.net/github/release/CoinTrend/CoinTrend?color=red)](https://github.com/CoinTrend/CoinTrend/releases)
 
 Lightweight, fast and open-source cryptocurrencies market monitor for Android. Available on Google Play ▶️ and F-Droid 🤖
