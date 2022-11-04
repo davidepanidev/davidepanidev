@@ -1,32 +1,40 @@
-<h1>Hi there 👋 <br> I'm Davide and these are my works</h1>
+<h1>Hi there 👋 <br> I'm Davide and this is what I do</h1>
 
 <div align="left">
-  
-  <h3>ℹ️ Info</h3>
   <h3>I'm open to collaborations 🤝 If you like the way I work don't hesitate to reach out! 😊</h3>
-  
 </div>
 
 <br>
 
-## 📱 Apps
+# 📱 Apps
 
-### [CoinTrend](https://github.com/CoinTrend)
+## [CoinTrend](https://github.com/CoinTrend)
 
-Lightweight, fast and open-source cryptocurrencies market monitor for Android. Available on Google Play ▶️
+[![Android](https://img.shields.io/badge/Android-grey?logo=android&style=flat)](https://www.android.com/)
+[![AndroidAPI](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://www.android.com/)
+[![Kotlin](https://img.shields.io/badge/kotlin-1.7.20-blue.svg?logo=kotlin)](https://kotlinlang.org)
+[![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-1.3.0-yellow)](https://developer.android.com/jetpack/compose)
+[![License](https://img.shields.io/github/license/CoinTrend/CoinTrend?color=orange)](./LICENSE)
+[![Release](https://badgen.net/github/release/CoinTrend/CoinTrend?color=red)](https://github.com/CoinTrend/CoinTrend/releases)
 
-<div align="center">
-  
-  <p><img src="https://github.com/CoinTrend/CoinTrend/blob/develop/metadata/en-US/images/featureGraphic.jpg"></p>
-  
-  <a href='https://play.google.com/store/apps/details?id=com.cointrend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250/></a>
-  
-</div>
+Lightweight, fast and open-source cryptocurrencies market monitor for Android. Available on Google Play ▶️ and F-Droid 🤖
+
+<p align="center"><img src="https://github.com/CoinTrend/CoinTrend/blob/develop/metadata/en-US/images/featureGraphic.jpg"></p>
+
+<p align="center"> 
+  <a href='https://play.google.com/store/apps/details?id=com.cointrend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=75/>
+  </a>
+
+  <a href='https://f-droid.org/packages/com.cointrend/'>
+    <img alt='Get it on F-Droid' src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75"/>
+  </a>
+</p>
 
 
-## 🏛 Projects
+# 🏛 Projects
 
-### [Android Multimodule Architecture Concepts](https://github.com/davidepanidev/android-multimodule-architecture-concepts)
+## [Android Multimodule Architecture Concepts](https://github.com/davidepanidev/android-multimodule-architecture-concepts)
 
 Showcase of several architectural approaches 🏛 to developing multi-modular Android apps 📱 It shows a comparison between a [Layered Architecture Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/layered-architecture-concept) and a [Clean Architecture Concept](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-concept) and the corresponding data flows.
 
@@ -41,15 +49,15 @@ Showcase of several architectural approaches 🏛 to developing multi-modular An
 </p>
 
 
-## 📚 Libraries
+# 📚 Libraries
 
 These are libraries that I use in my Apps and Projects and that I make publicly available to everyone. They are not meant to be maintained libraries (for now at least 😄).
 
-### [Kotlin Extensions](https://github.com/davidepanidev/kotlin-extensions)
+## [Kotlin Extensions](https://github.com/davidepanidev/kotlin-extensions)
 
 Kotlin helper functions to be used in JVM environments, built following SOLID principles. Available on JitPack 🚀.
 
-### [Android Extensions](https://github.com/davidepanidev/android-extensions)
+## [Android Extensions](https://github.com/davidepanidev/android-extensions)
 
 Android framework helper functions, built following SOLID principles. Available on JitPack 🚀.
 
