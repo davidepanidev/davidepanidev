@@ -62,6 +62,11 @@ Kotlin helper functions to be used in JVM environments, built following SOLID pr
 Android framework helper functions, built following SOLID principles. Available on JitPack 🚀.
 
 
+# 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidepanidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
