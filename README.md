@@ -36,7 +36,7 @@ Lightweight, fast and open-source cryptocurrencies market monitor for Android. A
 
 ## [Android Multimodule Architecture Concepts](https://github.com/davidepanidev/android-multimodule-architecture-concepts)
 
-Showcase of two multi-modular architectures ([Android Layered Architecture](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/layered-architecture-concept) and [Android Clean Architecture](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-concept)) 🏛 to developing clean, testable and scalable Android Apps 📱
+Showcase of two multi-modular MVVM architectures ([Android Layered Architecture](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/layered-architecture-concept) and [Android Clean Architecture](https://github.com/davidepanidev/android-multimodule-architecture-concepts/tree/clean-architecture-concept)) 🏛 to developing clean, testable and scalable Android Apps 📱
 
 <p float="center">
 
