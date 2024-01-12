@@ -1,7 +1,7 @@
 <h1>Hi there 👋 <br> I'm Davide and this is what I do</h1>
 
 <div align="left">
-  <h3>I'm open to collaborations 🤝 If you like the way I work don't hesitate to reach out! 😊</h3>
+  <h3>I'm open to collaborations 🤝 Don't hesitate to reach out! 😊</h3>
 </div>
 
 <br>
@@ -23,12 +23,10 @@ Lightweight, fast and open-source cryptocurrencies market monitor for Android. A
 
 <p align="center"> 
   <a href='https://play.google.com/store/apps/details?id=com.cointrend&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=75/>
-  </a>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=75/></a>
 
   <a href='https://f-droid.org/packages/com.cointrend/'>
-    <img alt='Get it on F-Droid' src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75"/>
-  </a>
+    <img alt='Get it on F-Droid' src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75"/></a>
 </p>
 
 
